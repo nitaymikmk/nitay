@@ -1,0 +1,8 @@
+main: net.mcreator.test.Test1Mod
+name: test1
+version: 1.0.0
+authors: [nitay, MCreator]
+website: https://mcreator.net
+api-version: 1.16
+
+commands:
